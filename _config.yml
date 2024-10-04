@@ -5,16 +5,16 @@ description: PhD Student | ECE | University of California, San Diego
 
 baseurl: /gradfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: sungeun@ucsd.edu
 
 # Pagination
-paginate: 4
+paginate: 2
 permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
 #twitter: "#"
-linkedin: "https://www.linkedin.com/in/%EC%84%B1%EC%9D%80-%EA%B9%80-474820203/"
+linkedin: "www.linkedin.com/in/sungeunkim-474820203"
 #stackoverflow: "#"
 #github: "#"
 #researchgate: "#"
