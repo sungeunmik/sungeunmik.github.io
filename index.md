@@ -15,6 +15,3 @@ I recieved my B.E in Electrical Engineering from Korea University. And I worked 
 My research interest is ML accelerator and in-memory computing.
 
 ### check out my [CV](https://drive.google.com/file/d/1lCgj3G8JZSMEm7D3JQlRSNp8T9erEDjn/view?usp=sharing)!
-
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
