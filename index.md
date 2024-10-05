@@ -6,14 +6,12 @@ profile:
   image: profile.png
 published: true
 ---
+Welcome!
+I am 1st year Ph.D. Student in Electrical and Computer Engineering at University of California, San Diego, co-advised by Prof. [Mingu Kang](https://ucsdvvip.com/){:target="_blank"} and Prof. [Tajana Rosing](http://varys.ucsd.edu/){:target="_blank"}
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+I recieved my B.E in Electrical Engineering from Korea University. And I worked at SK Hynix as a NAND Flash Logic Designer for 5 and a half year.
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
-
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
-
-PS: If you liked the theme, do star it on GitHub!
+My research interest is ML accelerator and in-memory computing.
 
 ### Also, check out:
 
