@@ -14,4 +14,4 @@ I recieved my B.E in Electrical Engineering from Korea University. And I worked 
 
 My research interest is ML accelerator and in-memory computing.
 
-### check out my [CV](https://drive.google.com/file/d/1W_-Quxvp5Y3Pj6xpjbUNxqxPxAlTynDF/view?usp=sharing)!
+### check out my [CV](https://drive.google.com/file/d/1W_-Quxvp5Y3Pj6xpjbUNxqxPxAlTynDF/view?usp=sharing) !
