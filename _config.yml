@@ -3,8 +3,8 @@
 title: Sung Eun Kim
 description: PhD Student | ECE | University of California, San Diego
 
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+baseurl: #name of GitHub repository
+url: "https://sungeunmik.github.io" #custom url to be used instead of GitHub repository
 email: sungeun@ucsd.edu
 
 # Pagination
