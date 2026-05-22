@@ -31,15 +31,16 @@
 }
 
 .rounded-social-buttons .fa-twitter,
-.fa-facebook-f,
-.fa-linkedin,
-.fa-github,
-.fa-orcid,
-.fa-researchgate,
-.fa-envelope
-.fa-quora
-.fa-instagram
-.fa-stack-overflow {
+.rounded-social-buttons .fa-facebook-f,
+.rounded-social-buttons .fa-linkedin,
+.rounded-social-buttons .fa-github,
+.rounded-social-buttons .fa-orcid,
+.rounded-social-buttons .fa-researchgate,
+.rounded-social-buttons .fa-envelope,
+.rounded-social-buttons .fa-quora,
+.rounded-social-buttons .fa-instagram,
+.rounded-social-buttons .fa-stack-overflow,
+.rounded-social-buttons .fa-graduation-cap {
   font-size: 25px;
 }
 
@@ -146,4 +147,15 @@
   color: #f48024;
   background: #fefefe;
   border-color: #5dd1b0;
+}
+
+.rounded-social-buttons .social-button.google-scholar {
+  background: #4285f4;
+}
+
+.rounded-social-buttons .social-button.google-scholar:hover,
+.rounded-social-buttons .social-button.google-scholar:focus {
+  color: #4285f4;
+  background: #fefefe;
+  border-color: #4285f4;
 }
